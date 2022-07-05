@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-cont{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: 5px;
+}
+.nav-title{
+    font-size: 25px;
+    margin-left: 1rem;
+}
+
+.nav-links ul{
+    display: flex;
+    list-style: none;
+}
+.nav-links li{
+    margin-right: 1rem;
+    padding: 3px;
+}
